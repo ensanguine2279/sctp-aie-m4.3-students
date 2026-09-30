@@ -1,13 +1,12 @@
 [
   {
-
-    "name": "Feature 2",
+    "name": "Feature 1",
     "cohort": 1,
-    "photo": "https://api.dicebear.com/9.x/avataaars-neutral/svg?seed=Victor+Ng"
+    "photo": "https://api.dicebear.com/9.x/avataaars-neutral/svg?seed=Howie+Ng"
   },
   
   {
-    "name": "Tony Stark",
+    "name": "Bruce Banner",
     "cohort": 1,
     "photo": "https://api.dicebear.com/9.x/avataaars-neutral/svg?seed=Jane+Doe"
   },
